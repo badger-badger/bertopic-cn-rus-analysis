@@ -13,7 +13,7 @@
 6.	Сравнительный анализ тематического наполнения
 
 Корпус статей 2021-2025 года:
-o	~3,000 китайских статей (People.cn, запрос «抗日» (Антияпонское сопротивление)) 
-o	~3,000 русских статей (Iz.ru, запрос «Великая Отечественная война»)
+~3,000 китайских статей (People.cn, запрос «抗日» (Антияпонское сопротивление)) 
+~3,000 русских статей (Iz.ru, запрос «Великая Отечественная война»)
 
-Модель эмбеддингов: paraphrase-multilingual-MiniLM-L12-v2 (модель Sentence-BERT) https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 - предобученная, мультиязычная, легкая и компактная версия BERT
+Модель эмбеддингов: paraphrase-multilingual-MiniLM-L12-v2 (модель Sentence-BERT) https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 - предобученная, мультиязычная, легкая версия BERT
